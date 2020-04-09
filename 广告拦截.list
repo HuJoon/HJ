@@ -1,4 +1,4 @@
-# Advertising 广告
+# 广告拦截
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
 
